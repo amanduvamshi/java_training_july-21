@@ -1,0 +1,18 @@
+ctrl+/  =  single line comment
+ctrl +shift+/ = multi line comment
+ctrl+\   = uncomment
+ctrl+shift+\ = uncomment multi line
+ctrl+shift+o  = for imports
+ctrl+shift+T  = search class from jar file
+ctrl+shift+R  = search class or xml or .properties file from Application.
+ctrl+o        = search for method in class
+ctrl+o(double press o) = search for method from same or super class
+ctrl+shift+F     = Format the code
+ctrl+shift+G   =  To info impl class of a interface or to know where exactly implemented method is calling.
+ctrl+l   = Go to specific line number.
+ctrl+shift+w    = closing all files.
+ctrl+ d         = Delete the line.
+ctrl+shift+l    =search word.
+ 
+
+
