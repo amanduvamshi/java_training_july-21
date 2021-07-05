@@ -12,10 +12,11 @@ public class Example1 {
 	}
 
 	public static void main(String[] args) {
-    
-		Example2 e2=new Example2();
-		List<String> l=new ArrayList();
+
+		Example2 e2 = new Example2();
+		List<String> l = new ArrayList();
 		e2.method2();
+
 	}
 
 }

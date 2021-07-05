@@ -3,6 +3,8 @@ package com.krishna.one;
 public class Example2 {
 	
 	public void m1() {
+		int a=10;
+		System.out.println("A value:"+a);
 		System.out.println("....Entered into m1()....");
 		m2();
 		System.out.println("....End of m1().....");
