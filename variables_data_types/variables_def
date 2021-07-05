@@ -1,0 +1,79 @@
+Variable : Variables  are used to store the data(number, String, boolean, float, double).
+
+Data Type : Specifies the size and type of the value stored in variable.
+
+            1.primitive data types(byte,short,int,float,double,boolean and char).
+            2.non primitive data types(String, Classes etc...) .
+            
+   Data types are required so that you know what "kind" of data your variable holds,
+    or can hold. If you (and compiler, and runtime and what not) know this information 
+    in advance, you can save a hell lot of runtime issues at compile time only.
+
+       
+NamingConventions :
+
+Class :
+
+class name should start with UpperCase letter, should be noun
+
+ex:
+1. class Bank{
+
+
+}   
+
+2.  class AccountDetails {
+
+}
+
+3.  class Employee {
+
+}
+======================
+method : method name should start with lowerCase letter,should be verb.
+
+1. public void saveAccountDetails(){
+
+}
+2. public void deleteAccount(){}
+
+3. public void updateAccount(){}
+=====================
+
+variableName : variable name should start with lower case letter
+
+
+ex: String studentName;
+    String accountNumber;
+    
+    
+====================
+
+identifier(class , method or variable) should not start with number or special character except $ or _.
+
+int 123Age // invalid
+String #name // invalid
+String %per  // invalid
+String _accountNumber // valid
+String $price // valid
+
+
+Task 1 : Write 10 Valid and Invalid identifiers (class , methods, variables)
+Task 2 : Write 10 valid and Invalid naming convention identifiers.
+
+
+
+
+
+
+
+
+
+
+    
+
+             
+
+
+
+
