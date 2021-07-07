@@ -1,0 +1,15 @@
+conditional statements are handling for decision (if ,else if , else, case,switch).
+
+
+
+Ex: withdraw(withdrawAmount){
+
+   if(withdrawAmount>accountBalance){
+   
+   return "Insufficient funds."
+   }else {
+    return withdrawAmount;
+   }
+
+}
+
