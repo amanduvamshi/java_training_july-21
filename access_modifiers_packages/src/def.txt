@@ -1,0 +1,9 @@
+package : encapsulate similar group of classes , interfaces ,files and sub packages.
+
+AccessModifiers:
+
+private : same class
+default : private+same package
+protected : default+out side package sub class
+public : Anyware.
+
