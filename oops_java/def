@@ -1,0 +1,11 @@
+Encapsulation : It's mechanism for restricting direct access to some of an object’s components.
+
+Why restricting: To get control on data.
+
+How can we achieve Encapsulation : By using Access Modifiers(private variables and public methods).
+
+
+What is abstraction: We take out unnecessary details and only focus on aspects that are necessary 
+to that context or system under consideration.
+
+
