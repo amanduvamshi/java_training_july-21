@@ -1,0 +1,12 @@
+Java exceptions are specialized events that indicate something bad has happened in the application, 
+and the application either needs to recover or exit.
+
+
+try , catch - we are handling exceptin
+throw - raise the exception
+throws - exception throws to the caller.
+
+
+
+
+- 
