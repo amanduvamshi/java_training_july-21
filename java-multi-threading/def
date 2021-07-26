@@ -1,0 +1,21 @@
+Multi Threading: Thread is java feature to allow concurrent executions of one or more parts of program.
+Each part of execution is called.
+
+We can achieve Multi Threading 2 ways.
+1.extend Thread
+2.Implement Runable interface.
+
+
+
+Q. Multi Thread ?
+Q. How man ways we can create a Thread?
+Q. What is a better approach (Thread or Runnable?
+Q.Explain Thread life cycle?
+Q.What is syncronization , how many ways we can create?
+Q.Explain inter thread communication (wait , notify , notifyAll)
+Q.Diff join, yield,sleep ?
+
+
+
+
+
