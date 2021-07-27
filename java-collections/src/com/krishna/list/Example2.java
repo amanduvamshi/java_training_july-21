@@ -19,6 +19,7 @@ public class Example2 {
 	    ArrayList<String> fruitNames = new ArrayList<String>();
 	    
 	    fruitNames.add("Apple");
+	    
 	    fruitNames.add("Mango");
 	  
 	    values.addAll(fruitNames);
