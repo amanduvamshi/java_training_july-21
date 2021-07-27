@@ -1,0 +1,16 @@
+Vector<K> and Hashtable<K,V> are legacy classes and  synchronized.
+
+ArrayList: 
+1. Appends elements in a sequence order.
+2. add method internally using object[]  to store elements.
+3. If ArrayList size will reach max capacity, it increases the size of the ArrayList object dynamically.
+4. It allows duplicate elements to append.
+
+Linked List: 
+
+1.Linked list implements double linked list internally.
+2.it occupies more memory compare to arraylist.
+
+
+
+HashMap: 
