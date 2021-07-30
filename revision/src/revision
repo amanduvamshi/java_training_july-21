@@ -1,0 +1,63 @@
+1.conditional statements:
+   1. if , if else , if else if , if else if else , switch case
+2.looping :
+    do while , while , for
+    
+3.Access Modifiers 4: private , no keyword for default, protected, public   
+ 
+4.static: 
+     static variables , static blocks, sttaic methods.
+     flow : static variables and static block execution flow - top to bottom next main method.
+5.non static:
+      non static variables, non static blocks, constructors, non static methods , Object, this
+      non static variables and blocks flow - top to bottom 
+      constructor flow : based on the type of object we create.
+      
+      
+ What happens at the time of object creation:
+      
+       first it executes non static varibles and non static block then constructor.
+       
+6.OOPS:
+   1.Encapsulation : To get control on data( achieving using access modifiers )
+        private variables and public methods.
+   2.abstraction : Take out unnecessary details and only focus on aspects that are necessary 
+                    to that context    
+            interfaces pure abstract method, but from java 8 default methods.
+            abstract at class level is abstract class
+            abstract at method level is abstract method, we can't create abstract method on concrete class.
+    3.Inheritence : super class feature using in sub class
+                    extends , implements
+                    is-a , has-a
+    4. Polymerphism : Compile time polymerphism , Run time polymerphism.
+ 
+ 7.Exception Handling: 
+                      try, catch , finally, throw , throws
+                      Throwable --> sub classes--> Exception , Error
+                          * Exception -- > Checked Exception(99% method callings)
+                                     Runtime Exception (logical Errors)
+                           * Error    --> Physical resources.
+                           
+8. Multi Threading : 
+                   Two ways we can implement using extends Thread , implements Runnable
+                   override run method
+                   synchronized method or block , join , sleep, yield,wait, notify , notifyAll
+                   
+9. Collections     :  Collection<E>                           
+                      Vector(legacy and sync)  ArrayList , LinkedList   
+                      Map<K,V>
+                        Hashtable(legacy and sync), HashMap , LinkedHashMap
+                        keys should not be duplicate (equals and hashcode method)
+                        
+                       Set<K> : duplicats not allow
+                       
+                       Sorted Map   : TreeMap is a sub class of SortedMap
+                                      Comparable and Comparator must override for custom class to enable sort.                        
+                                                        
+                                    
+                                      
+ 10. String , StringBuffer, StringBuilder : practice all methods.       
+      
+    
+    
+    
