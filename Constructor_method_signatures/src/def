@@ -6,9 +6,4 @@ public void m1(){
 }    // method Declaration
 
 
-method signature:
-
-public int sumOfTwoNum(int a, int b){
-
-return a+b;
-}
+m1();
