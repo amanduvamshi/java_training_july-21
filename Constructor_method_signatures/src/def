@@ -5,5 +5,5 @@ public void m1(){
 
 }    // method Declaration
 
-
+Method calling:
 m1();
